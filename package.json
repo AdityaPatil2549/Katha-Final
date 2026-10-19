@@ -18,7 +18,7 @@
         "@react-oauth/google": "^0.13.5",
         "@react-three/drei": "^10.7.8",
         "@react-three/fiber": "^9.7.0",
-        "@tailwindcss/postcss": "^4.2.2",
+        "@tailwindcss/postcss": "^4.3.3",
         "blurhash": "^2.0.5",
         "browser-image-compression": "^2.0.2",
         "crypto-js": "^4.2.0",
